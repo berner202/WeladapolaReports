@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BTD_DS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=sql5039.site4now.net;Initial Catalog=DB_A407B6_weladapola</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>8ac87244-005a-4d31-9696-f523b665fe18</DataSourceID>
+</RptDataSource>
